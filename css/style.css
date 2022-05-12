@@ -1,0 +1,318 @@
+:root {
+    --color1: #1D2130;
+}
+
+header {
+    background-color: #fff;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+.header-title {
+    font-weight: 700;
+    font-size: 50px;
+    color: #1D2130;
+    line-height: 50px;
+}
+
+.header-subtitle {
+    font-weight: 400;
+}
+
+.header-main {
+    margin-top: 96px;
+}
+
+.btn-didi {
+    padding: 10px 27px;
+    background-color: #1D2130;
+    color: #fff;
+    font-weight: 700;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    transition: all 0.5s;
+}
+
+.btn-didi:hover {
+    color: #fff;
+    background-color: #797777;
+}
+
+.home-li {
+    margin-left: 120px;
+}
+
+.nav-li {
+    font-size: 17px;
+    margin-right: 30px;
+}
+
+.form-didi {
+    margin: 35px auto;
+}
+
+.form-btn {
+    padding: 10px 20px;
+    font-weight: 500;
+    background-color: #1D2130;
+    color: #fff;
+    transition: all 0.5s;
+}
+
+.form-btn:hover {
+    background-color: #797777;
+    color: #fff;
+}
+
+.solution {
+    padding-top: 100px;
+    padding-bottom: 70px;
+}
+
+.label-high {
+    background: linear-gradient(53.94deg, #373FFF 15.02%, #3ACAF8 82.83%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.didi-section {
+    margin-top: 54px;
+}
+
+.didi-sec-img {
+    margin-bottom: 20px;
+}
+
+.didi-title {
+    margin-bottom: 16px;
+}
+
+.didi-subtitle {
+    font-size: 15.5px;
+    font-weight: 400;
+}
+
+/* Header end */
+
+.benefits {
+    margin-right: 0px;
+    padding: 10px 30px;
+    margin-top: 30px;
+    background-color: rgba(224, 228, 252, 1);
+    border-radius: 10px;
+}
+
+.shouldwork {
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+
+.should-title {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 48px;
+    color: #1D2130;
+    line-height: 60px;
+}
+
+.should-work-text {
+    margin-bottom: 30px;
+}
+
+.shouldben {
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.shouldben-text {
+    margin-left: 17px;
+    font-size: 15px;
+}
+
+
+
+.impressions {
+    padding-top: 110px;
+    padding-bottom: 80px;
+    background: rgb(174, 238, 229);
+    background: radial-gradient(circle, rgba(174, 238, 229, 1) 8%, rgba(255, 255, 255, 1) 100%);
+}
+
+.impr-title {
+    margin-top: 70px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 48px;
+    color: #1D2130;
+    line-height: 60px;
+}
+
+.btn-did {
+    padding: 10px 20px;
+    font-weight: 500;
+    background-color: #1D2130;
+    color: #fff;
+    transition: all 0.5s;
+    margin-top: 20px;
+    margin-right: -10px;
+}
+
+.btn-did:hover {
+    background-color: #797777;
+    color: #fff;
+}
+
+.features {
+    padding-top: 120px;
+    padding-bottom: 130px;
+}
+
+.feat-title {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 48px;
+    color: #1D2130;
+    line-height: 60px;
+}
+
+
+.features-3-col {
+    margin-right: 0px;
+    padding: 10px 30px;
+    padding-bottom: 40px;
+    margin-top: 30px;
+    background: rgba(215, 152, 225, 0.15);
+    border-radius: 10px;
+}
+
+.impr-img {
+    width: 250px;
+}
+
+.res-title {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 48px;
+    color: #1D2130;
+    line-height: 60px;
+}
+
+.didi-card {
+    margin-top: 3rem;
+    padding-top: 30px;
+    border: 2px solid rgba(97, 153, 237, 0.26);
+    border-radius: 24px;
+    height: 400px;
+}
+
+.card-text {
+    margin-bottom: 45px;
+}
+
+.customer-img {
+    width: 56px;
+}
+
+.ready-title {
+    margin-top: 120px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 50px;
+    color: #1D2130;
+    line-height: 60px;
+}
+
+.btn-ready {
+    padding: 10px 20px;
+    font-weight: 500;
+    background-color: #1D2130;
+    color: #fff;
+    transition: all 0.5s;
+    margin-top: 20px;
+    margin-right: -10px;
+}
+
+.btn-ready:hover {
+    background-color: #797777;
+    color: #fff;
+}
+
+footer {
+    margin-top: 120px;
+    background: rgba(29, 33, 48, 1);
+    padding: 60px 80px 70px 80px;
+}
+
+.foot-link {
+    color: #fff;
+    transition: all 0.2s;
+}
+
+.foot-link:hover {
+    color: #373FFF;
+}
+
+.sub {
+    margin-top: 19px;
+    font-size: 16px;
+    color: var(--bs-white);
+    font-weight: 500;
+    margin-bottom: 40px;
+}
+
+.foot-btn {
+    border: 1px solid #000;
+    padding: 5px 10px;
+    font-weight: 500;
+    background: rgba(43, 46, 60, 1);
+    color: #fff;
+    transition: all 0.5s;
+}
+
+.foot-btn:hover {
+    background-color: #797777;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+/* media */
+@media only screen and (max-width:990px) {
+    .impr-img-span {
+        margin-top: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .didi-card {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (max-width:575px) {
+    .foot-nav {
+        text-align: center;
+    }
+
+    .foot-logo {
+        margin-top: 20px;
+    }
+}
